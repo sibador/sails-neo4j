@@ -1,0 +1,107 @@
+{
+  "_args": [
+    [
+      {
+        "raw": "sails-neo4j@~0.3.0",
+        "scope": null,
+        "escapedName": "sails-neo4j",
+        "name": "sails-neo4j",
+        "rawSpec": "~0.3.0",
+        "spec": ">=0.3.0 <0.4.0",
+        "type": "range"
+      },
+      "C:\\Users\\SPARE ISTYATECH\\Documents\\GraphItV2"
+    ]
+  ],
+  "_from": "sails-neo4j@>=0.3.0 <0.4.0",
+  "_id": "sails-neo4j@0.3.0",
+  "_inCache": true,
+  "_location": "/sails-neo4j",
+  "_npmUser": {
+    "name": "dughetti",
+    "email": "dughetti@zesmind.com"
+  },
+  "_npmVersion": "1.4.28",
+  "_phantomChildren": {},
+  "_requested": {
+    "raw": "sails-neo4j@~0.3.0",
+    "scope": null,
+    "escapedName": "sails-neo4j",
+    "name": "sails-neo4j",
+    "rawSpec": "~0.3.0",
+    "spec": ">=0.3.0 <0.4.0",
+    "type": "range"
+  },
+  "_requiredBy": [
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/sails-neo4j/-/sails-neo4j-0.3.0.tgz",
+  "_shasum": "abe4d663dc583d19af603a3b85237cb26e16bd00",
+  "_shrinkwrap": null,
+  "_spec": "sails-neo4j@~0.3.0",
+  "_where": "C:\\Users\\SPARE ISTYATECH\\Documents\\GraphItV2",
+  "author": {
+    "name": "National Geographic Society"
+  },
+  "bugs": {
+    "url": "https://github.com/sibador/sails-neo4j/issues"
+  },
+  "dependencies": {
+    "async": "0.1.22",
+    "lodash": "^2.4.1",
+    "neo4j-js": "0.0.8",
+    "q": "~0.9.7"
+  },
+  "description": "Neo4j adapter for Sails.js",
+  "devDependencies": {
+    "mocha": "~1.15.1"
+  },
+  "directories": {},
+  "dist": {
+    "shasum": "abe4d663dc583d19af603a3b85237cb26e16bd00",
+    "tarball": "https://registry.npmjs.org/sails-neo4j/-/sails-neo4j-0.3.0.tgz"
+  },
+  "gitHead": "4099eedd7f0b4f8b8d61bfa2bfe5469272242193",
+  "homepage": "https://github.com/sibador/sails-neo4j",
+  "keywords": [
+    "orm",
+    "waterline",
+    "sails",
+    "sailsjs",
+    "sails.js",
+    "neo4j",
+    "graph",
+    "database"
+  ],
+  "license": "MIT",
+  "main": "lib/adapter.js",
+  "maintainers": [
+    {
+      "name": "chuwiey",
+      "email": "ben.fonarov@gmail.com"
+    },
+    {
+      "name": "lsvx",
+      "email": "lserven@gmail.com"
+    },
+    {
+      "name": "nearhan",
+      "email": "Nearhan@gmail.com"
+    },
+    {
+      "name": "dughetti",
+      "email": "dughetti@zesmind.com"
+    }
+  ],
+  "name": "sails-neo4j",
+  "optionalDependencies": {},
+  "readme": "ERROR: No README data found!",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sibador/sails-neo4j.git"
+  },
+  "scripts": {
+    "test": "mocha --reporter spec"
+  },
+  "version": "0.3.0"
+}
